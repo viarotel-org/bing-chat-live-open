@@ -1,7 +1,6 @@
-# bing-chat-live-open
+# bing-chat-live
 
-> 使用 BingChat(基于 OpenGPT4.0)进行直播弹幕互动 (目前仅支持哔哩哔哩平台直播)
-> 正在逐步迁移中
+> [在线体验地址](https://live.bilibili.com/) 使用 BingChat(基于 OpenGPT4.0)进行直播弹幕互动 (目前仅支持哔哩哔哩平台直播)
 
 ## 快速上手
 
